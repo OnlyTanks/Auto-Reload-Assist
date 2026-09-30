@@ -77,6 +77,7 @@ It does not directly refill ammunition.
 Requires:
 
 [**Bingus Shared Loader v15 or newer / API 1**](https://github.com/CowboyBingus/BingusSharedLoader)
+[**Mod Options Menu**](https://github.com/CowboyBingus/ModOptionsMenu)
 
 After loading successfully, the Bingus Shared Loader log should contain:
 
