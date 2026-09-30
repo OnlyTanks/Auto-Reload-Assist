@@ -1,4 +1,5 @@
 # Auto Reload
+# [**Showcase**](https://youtu.be/M_6caSyQQOY)
 
 Automatically reloads the weapon you are currently holding when it is completely empty.
 
